@@ -8,10 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img alt="Frontend" src=".github/aircnc.png" width="100%">
-</p>
-
 ## Techs
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
